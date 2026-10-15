@@ -1,0 +1,11 @@
+
+{
+  "name": "devops-cicd-project",
+  "version": "1.0.0",
+  "description": "End-to-end CI/CD using Jenkins, Docker and AWS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  }
+}
